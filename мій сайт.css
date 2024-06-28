@@ -1,0 +1,53 @@
+*{
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p{
+    color: #ffa600;
+    font-size: 100px;
+    text-align: center; 
+}
+.options{
+    font-size: 50px;
+    text-align: center; 
+}
+.car1{
+    text-align: center;
+    font-size: 70px;
+
+}
+.s{
+    color: rgb(38, 172, 38);
+}
+.m{
+    margin-left: 400px;
+
+}
+.ss{
+    color: rgb(38, 172, 38);
+}
+.mm{
+    margin-left: 400px;
+
+}
+
+.sss{
+    color: rgb(38, 172, 38);
+    font-size:70px;
+    text-align: center;
+    margin-right: 400px;
+}
+.mmm{
+    margin-left: 400px;
+
+}
+.car2{
+    margin-right: 150px;
+    font-size: 70px;
+}
+.ff{
+    font-size: 30px;
+}
